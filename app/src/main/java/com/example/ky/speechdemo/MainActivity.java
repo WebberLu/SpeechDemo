@@ -155,6 +155,6 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
         }
     }
     /**
-     * push test
+     * pull test
      */
 }
