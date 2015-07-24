@@ -72,8 +72,6 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
         }
     }
 
-
-
     /**
      * Receiving speech input
      */
